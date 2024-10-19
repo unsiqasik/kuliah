@@ -5,7 +5,7 @@ while kode != 2112:
   kode = int(input('Kode Salah. Masukan Kode Lagi: '))
 if kode == 2112:
   print ('Kode Benar. Lanjutkan')
-q1 = str(input('3 + 1 = '))
+q1 = int(input('3 + 1 = '))
 
 if q1 == 4:
   print ('benar')

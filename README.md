@@ -2,10 +2,12 @@ Muhammad Rakha Qushayyi Andrianto
 
 
 
--install git & python/python3
+-install git & python
 
 -git clone https://github.com/unsiqasik/kuliah
 
 -cd kuliah
 
--python main.py / python3 main.py
+-ls
+
+-python (file).py
